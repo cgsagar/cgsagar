@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Sagar</h1>
 <h3 align="center">A Passionate Front-end Developer</h3>
 
-## 😊 About me
+## 😊 About Me
 - 🔭 Currently working on Full Stack (React JS, Node JS , Express JS , MongoDB).
 - 🌱 Interested to learn new technologies which helps to build end-to-end application
-- 👯 Ability to work effectively while working as a team member as well as individually.
+- 🔨 Ability to work effectively while working as a team member as well as individually.
 - 💻 Experience with front-end development with back-end system integration.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cgsagar&label=Profile%20views&color=0e75b6&style=flat" alt="cgsagar" /> </p>
