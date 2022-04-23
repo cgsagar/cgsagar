@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Sagar</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A Passionate Front-end Developer</h3>
 
 ## 😊 About me
 - 🔭 Currently working on Full Stack (React JS, Node JS , Express JS , MongoDB).
