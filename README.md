@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">A Passionate Front-end Developer</h3>
 
 ## 😊 About Me
-- 🔭 Currently Learning Node.js and Express.js in order to build a full stack application
+- 🔭 Currently Learning Express.js with mongoDB in order to build a full stack application
 - 🌱 Interested to learn new technologies
 - 🔨 Ability to work effectively while working as a team member as well as individually.
 - 💻 Experience with front-end development with back-end system integration.
